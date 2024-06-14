@@ -3,6 +3,8 @@
 
 This model employs YOLOv5, a state-of-the-art object detection algorithm, to identify and locate cows in images. It uses a convolutional neural network (CNN) to process the input image and output bounding boxes around detected cows. YOLOv5's real-time processing capability allows for efficient and accurate cow detection
 
+![Screenshot 2023-12-07 052405](https://github.com/Harikesavan77/Object_Detection/assets/120177130/e544610e-e0c9-4eb1-b770-d187e7bff4c0)
+
 
 ## Acknowledgements
 
